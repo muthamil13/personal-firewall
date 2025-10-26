@@ -1,0 +1,399 @@
+INFO:root:Blocked packet due to port: Ether / IP / UDP / mDNS Qry b'_dosvc._tcp.local.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'geo.prod.do.dsp.mp.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'geo.prod.do.dsp.mp.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'cp801.prod.do.dsp.mp.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'cp801.prod.do.dsp.mp.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'geo.prod.do.dsp.trafficmanager.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'geo.prod.do.dsp.trafficmanager.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'cp801.prod.do.dsp.mp.microsoft.com.edgekey.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'cp801.prod.do.dsp.mp.microsoft.com.edgekey.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / mDNS Qry b'_dosvc._tcp.local.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'kv601.prod.do.dsp.mp.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'kv601.prod.do.dsp.mp.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'kv601.prod.do.dsp.mp.microsoft.com.edgekey.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'kv601.prod.do.dsp.mp.microsoft.com.edgekey.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'cp601.prod.do.dsp.mp.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'cp601.prod.do.dsp.mp.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'cp601.prod.do.dsp.mp.microsoft.com.edgekey.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'cp601.prod.do.dsp.mp.microsoft.com.edgekey.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'dl.delivery.mp.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'dl.delivery.mp.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'dl.delivery.mp.microsoft.com.delivery.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'dl.delivery.mp.microsoft.com.delivery.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'msedge.b.tlu.dl.delivery.mp.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'msedge.b.tlu.dl.delivery.mp.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'msedge.b.tlu.dl.delivery.mp.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'msedge.b.tlu.dl.delivery.mp.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'star.b.tlu.dl.delivery.mp.microsoft.com.delivery.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'star.b.tlu.dl.delivery.mp.microsoft.com.delivery.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'star.b.tlu.dl.delivery.mp.microsoft.com.delivery.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'star.b.tlu.dl.delivery.mp.microsoft.com.delivery.microsoft.com.'
+INFO:root:Blocked ICMP packet: Ether / IP / ICMP / IPerror / UDPerror / DNS Ans b'star.b.tlu.dl.delivery.mp.mi.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ssl.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ssl.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ssl.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 142.250.193.99
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2404:6800:4002:808::2003
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'stream-production.avcdn.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'stream-production.avcdn.net.akamaized.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'storeedgefd.dsx.mp.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'storeedgefd.dsx.mp.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'storeedgefd.xbetservices.akadns.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'storeedgefd.xbetservices.akadns.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'www.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'www.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'www.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 142.250.182.228
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2404:6800:4002:803::2004
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b't0.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b't0.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b't0.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 142.250.195.36
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2404:6800:4009:818::2004
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'lh3.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'lh3.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'lh3.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'www.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'www.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'www.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'lh2.l.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'lh2.l.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'lh2.l.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2404:6800:4002:831::2003
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 142.250.192.3
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'lh3.googleusercontent.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'lh3.googleusercontent.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'lh3.googleusercontent.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'googlehosted.l.googleusercontent.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'googlehosted.l.googleusercontent.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'googlehosted.l.googleusercontent.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ogads-pa.clients6.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ogads-pa.clients6.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ogads-pa.clients6.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'apis.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'apis.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'apis.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 142.251.220.10
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2404:6800:4002:80c::200a
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'plus.l.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'plus.l.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'plus.l.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'play.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'play.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'play.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2404:6800:4002:829::200e
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 142.250.192.14
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ogs.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'www3.l.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ogs.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ogs.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'www3.l.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'www3.l.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ssl.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ssl.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ssl.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 142.250.193.99
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2404:6800:4002:808::2003
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'optimizationguide-pa.googleapis.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'optimizationguide-pa.googleapis.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'optimizationguide-pa.googleapis.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 142.250.192.106
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2404:6800:4009:819::200a
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'lh3.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'lh3.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'lh3.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'www.googleadservices.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'www.googleadservices.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'www.googleadservices.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'lh2.l.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'lh2.l.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'lh2.l.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 172.217.26.34
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 64:ff9b::8efa:cf82
+INFO:root:Blocked packet due to port: Ether / IP / UDP / BOOTP / DHCP Request
+INFO:root:Blocked packet due to port: Ether / IP / UDP / BOOTP / DHCP Ack
+INFO:root:Blocked packet due to port: Ether / IP / UDP / mDNS Qry b'DESKTOP-2U4AN2Q.local.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP 10.61.219.243:52656 > 224.0.0.252:llmnr / LLMNRQuery who has 'DESKTOP-2U4AN2Q.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / mDNS Ans 2409:40f4:3106:e84a:7bb3:649c:a8a0:3640
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'lh3.googleusercontent.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'lh3.googleusercontent.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'lh3.googleusercontent.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'www.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'www.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'www.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'googlehosted.l.googleusercontent.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'googlehosted.l.googleusercontent.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 142.250.192.3
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2404:6800:4002:831::2003
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'googlehosted.l.googleusercontent.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ogads-pa.clients6.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ogads-pa.clients6.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ogads-pa.clients6.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'accounts.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'accounts.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'accounts.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2404:6800:4002:80c::200a
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 142.251.220.10
+INFO:root:Blocked packet due to port: Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 74.125.24.84
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2404:6800:4003:c05::54
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'play.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'play.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'play.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 142.250.192.14
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2404:6800:4002:829::200e
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'waa-pa.clients6.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'waa-pa.clients6.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'waa-pa.clients6.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 142.250.77.42
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2404:6800:4002:803::200a
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ogs.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ogs.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ogs.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'www3.l.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'www3.l.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'www3.l.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ssl.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ssl.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ssl.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'encrypted-tbn0.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'encrypted-tbn0.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'encrypted-tbn0.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 142.250.193.99
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2404:6800:4002:808::2003
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2404:6800:4009:80c::200e
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 216.58.200.174
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'storeedgefd.dsx.mp.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'storeedgefd.dsx.mp.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'storeedgefd.xbetservices.akadns.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'storeedgefd.xbetservices.akadns.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'storeedgefd.dsx.mp.microsoft.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'storeedgefd.xbetservices.akadns.net.'
+INFO:root:Blocked ICMP packet: Ether / IP / ICMP / IPerror / UDPerror / DNS Ans b'storeedgefd.xbetservices.akadns.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'fonts.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'fonts.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'fonts.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2404:6800:4002:80a::2003
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 172.217.24.67
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'clients4.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'clients4.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'clients4.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'clients.l.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'clients.l.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'clients.l.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 20.207.73.82
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 64:ff9b::14cf:4952
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'github.githubassets.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'github.githubassets.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'github.githubassets.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'www.googleapis.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'www.googleapis.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'www.googleapis.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 185.199.111.154
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 64:ff9b::b9c7:6f9a
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2404:6800:4002:804::200a
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 142.250.76.202
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'avatars.githubusercontent.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'avatars.githubusercontent.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'avatars.githubusercontent.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 185.199.111.133
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2606:50c0:8003::154
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'user-images.githubusercontent.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'github-cloud.s3.amazonaws.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'user-images.githubusercontent.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'user-images.githubusercontent.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'github-cloud.s3.amazonaws.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'github-cloud.s3.amazonaws.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'safebrowsing.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'safebrowsing.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'safebrowsing.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b's3-1-w.amazonaws.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 185.199.110.133
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2606:50c0:8003::154
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b's3-1-w.amazonaws.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'sb.l.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'sb.l.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'sb.l.google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b's3-1-w.amazonaws.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ipm.avcdn.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ipm.avcdn.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'ipm-provider.ff.avast.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'ipm-provider.ff.avast.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'content-autofill.googleapis.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'content-autofill.googleapis.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'content-autofill.googleapis.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'www.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'www.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'www.gstatic.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ipmcdn.avast.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ipmcdn.avast.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2404:6800:4002:831::2003
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 142.250.192.3
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 142.251.220.42
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2404:6800:4009:81a::200a
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'ipmcdn.avast.com.edgekey.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'ipmcdn.avast.com.edgekey.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'collector.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'collector.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'api.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'api.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'api.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'collector.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'glb-db52c2cf8be544.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'glb-db52c2cf8be544.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 20.207.73.85
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 64:ff9b::14cf:4955
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'glb-db52c2cf8be544.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'analytics.ff.avast.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'analytics.ff.avast.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'analytics-prod-gcp.ff.avast.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'analytics-prod-gcp.ff.avast.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'config.edge.skype.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'config.edge.skype.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'config.edge.skype.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'config.edge.skype.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'config.edge.skype.com.trafficmanager.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'config.edge.skype.com.trafficmanager.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'config.edge.skype.com.trafficmanager.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'config.edge.skype.com.trafficmanager.net.'
+INFO:root:Blocked ICMP packet: Ether / IP / ICMP / IPerror / UDPerror / DNS Ans b'config.edge.skype.com.trafficmanager.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ncc.avast.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ncc.avast.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'ncc.avast.com.edgesuite.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'ncc.avast.com.edgesuite.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'alive.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'alive.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'alive.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'live.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'live.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'live.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'passwordsleakcheck-pa.googleapis.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'passwordsleakcheck-pa.googleapis.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'passwordsleakcheck-pa.googleapis.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 142.251.223.202
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2404:6800:4009:815::200a
+INFO:root:Blocked packet due to port: Ether / IP / UDP / mDNS Qry b'DESKTOP-2U4AN2Q.local.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / mDNS Ans 2409:40f4:3106:e84a:7bb3:649c:a8a0:3640
+INFO:root:Blocked packet due to port: Ether / IP / UDP 10.61.219.243:51671 > 224.0.0.252:llmnr / LLMNRQuery who has 'DESKTOP-2U4AN2Q.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / mDNS Qry b'DESKTOP-2U4AN2Q.local.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / mDNS Ans 2409:40f4:3106:e84a:7bb3:649c:a8a0:3640
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'beacons.gcp.gvt2.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'beacons.gcp.gvt2.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'beacons.gcp.gvt2.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'beacons-handoff.gcp.gvt2.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'beacons-handoff.gcp.gvt2.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'beacons-handoff.gcp.gvt2.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'push.services.mozilla.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'push.services.mozilla.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 34.107.243.93
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 64:ff9b::226b:f35d
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'push.services.mozilla.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 34.107.243.93
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'push.services.mozilla.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 64:ff9b::226b:f35d
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'firefox.settings.services.mozilla.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'firefox.settings.services.mozilla.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'firefox.settings.services.mozilla.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'firefox.settings.services.mozilla.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'mozilla.map.fastly.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'mozilla.map.fastly.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'mozilla.map.fastly.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'mozilla.map.fastly.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'mozilla.map.fastly.net.'
+INFO:root:Blocked ICMP packet: Ether / IP / ICMP / IPerror / UDPerror / DNS Ans b'mozilla.map.fastly.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'mozilla.map.fastly.net.'
+INFO:root:Blocked ICMP packet: Ether / IP / ICMP / IPerror / UDPerror / DNS Ans b'mozilla.map.fastly.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2a04:4e42:25::347
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 151.101.157.91
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ncc.avast.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ncc.avast.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'google.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'ncc.avast.com.edgesuite.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'ncc.avast.com.edgesuite.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2404:6800:4002:831::200e
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 142.250.70.110
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ncc.avast.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'ncc.avast.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'ncc.avast.com.edgesuite.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'ncc.avast.com.edgesuite.net.'
+INFO:root:Blocked ICMP packet: Ether / IP / ICMP / IPerror / UDPerror / DNS Ans b'ncc.avast.com.edgesuite.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 64:ff9b::14cf:4952
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 20.207.73.82
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'collector.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'collector.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'collector.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'glb-db52c2cf8be544.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'glb-db52c2cf8be544.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'glb-db52c2cf8be544.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'github-cloud.s3.amazonaws.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'github-cloud.s3.amazonaws.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'github-cloud.s3.amazonaws.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b's3-1-w.amazonaws.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b's3-1-w.amazonaws.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b's3-1-w.amazonaws.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'api.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'api.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'api.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 64:ff9b::14cf:4955
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 20.207.73.85
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'b1.nel.goog.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'b1.nel.goog.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'b1.nel.goog.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 2404:6800:4000:1015::5e
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 142.251.126.94
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'objects-origin.githubusercontent.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'objects-origin.githubusercontent.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'objects-origin.githubusercontent.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'glb-db52c2cf8be544.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'glb-db52c2cf8be544.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'glb-db52c2cf8be544.github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'stream-production.avcdn.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans b'stream-production.avcdn.net.akamaized.net.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Qry b'github.com.'
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 64:ff9b::14cf:4952
+INFO:root:Blocked packet due to port: Ether / IP / UDP / DNS Ans 20.207.73.82
